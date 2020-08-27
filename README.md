@@ -1,6 +1,6 @@
 # ziaeeNN2020
 -  This repository contains the codes for repuducing results and figures in the paper: 
--  Frequency-dependent organization of the brain’s functional network through delayed-interactions [biorxiv, accepted by the J. Neural Networks](https://www.biorxiv.org/content/10.1101/754622v1) 
+-  Frequency-dependent organization of the brain’s functional network through delayed-interactions [J. Neural Networks](https://www.researchgate.net/publication/343780297_Frequency-dependent_organization_of_the_brain's_functional_network_through_delayed-interactions) 
 - Abolfazl Ziaeemehr, Mina Zarei, Alireza Valizadeh, Claudio R. Mirasso
 
 -  **Abstract**
@@ -17,3 +17,5 @@ $ make
 $ python3 run.py
 ```
 
+If you used the code please cite the paper:
+- Ziaeemehr, A., Zarei, M., Valizadeh, A. and Mirasso, C.R., 2020. Frequency-dependent organization of the brain’s functional network through delayed-interactions. Neural Networks. https://doi.org/10.1016/j.neunet.2020.08.003
