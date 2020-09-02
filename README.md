@@ -18,4 +18,19 @@ $ python3 run.py
 ```
 
 If you used the code please cite the paper:
-- Ziaeemehr, A., Zarei, M., Valizadeh, A. and Mirasso, C.R., 2020. Frequency-dependent organization of the brain’s functional network through delayed-interactions. Neural Networks. https://doi.org/10.1016/j.neunet.2020.08.003
+```
+@article{ZIAEEMEHR2020155,
+title = "Frequency-dependent organization of the brain’s functional network through delayed-interactions",
+journal = "Neural Networks",
+volume = "132",
+pages = "155 - 165",
+year = "2020",
+issn = "0893-6080",
+doi = "https://doi.org/10.1016/j.neunet.2020.08.003",
+url = "http://www.sciencedirect.com/science/article/pii/S0893608020302926",
+author = "Abolfazl Ziaeemehr and Mina Zarei and Alireza Valizadeh and Claudio R. Mirasso",
+keywords = "Connectome, Functional network, Hierarchical network, Delayed interaction"
+}
+```
+
+-  50 days' free access to the article: https://authors.elsevier.com/c/1bgYr3BBjKdbnE
