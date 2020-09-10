@@ -17,7 +17,7 @@ $ make
 $ python3 run.py
 ```
 
-If you used the code please cite the paper:
+-  **How to cite the paper:**
 ```
 @article{ZIAEEMEHR2020155,
 	title = {Frequency-dependent organization of the brain's functional network through delayed-interactions},
