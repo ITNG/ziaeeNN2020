@@ -20,16 +20,16 @@ $ python3 run.py
 If you used the code please cite the paper:
 ```
 @article{ZIAEEMEHR2020155,
-title = "Frequency-dependent organization of the brain’s functional network through delayed-interactions",
-journal = "Neural Networks",
-volume = "132",
-pages = "155 - 165",
-year = "2020",
-issn = "0893-6080",
-doi = "https://doi.org/10.1016/j.neunet.2020.08.003",
-url = "http://www.sciencedirect.com/science/article/pii/S0893608020302926",
-author = "Abolfazl Ziaeemehr and Mina Zarei and Alireza Valizadeh and Claudio R. Mirasso",
-keywords = "Connectome, Functional network, Hierarchical network, Delayed interaction"
+	title = {Frequency-dependent organization of the brain's functional network through delayed-interactions},
+	journal = {Neural Networks},
+	volume = {132},
+	pages = {155 - 165},
+	year = {2020},
+	issn = {0893-6080},
+	doi = {https://doi.org/10.1016/j.neunet.2020.08.003},
+	url = {http://www.sciencedirect.com/science/article/pii/S0893608020302926},
+	author = {Abolfazl Ziaeemehr and Mina Zarei and Alireza Valizadeh and Claudio R. Mirasso},
+	keywords = {Connectome, Functional network, Hierarchical network, Delayed interaction}
 }
 ```
 
